@@ -22,3 +22,5 @@ Welcome!
 [Click here](https://eambrosio27.github.io/markdown-parser/lab-report-3-week-6.html)
 
 ***
+## Lab Report 4
+[Click here](https://eambrosio27.github.io/LR4/)
