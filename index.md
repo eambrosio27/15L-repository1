@@ -24,3 +24,9 @@ Welcome!
 ***
 ## Lab Report 4
 [Click here](https://eambrosio27.github.io/LR4/)
+
+***
+
+## Lab Report 5
+
+[Click here](https://eambrosio27.github.io/LR5/)
